@@ -3,6 +3,18 @@ Hello
 
 This face recognition project
 
+Using this code you can identify the person who was added to the database
+
+# USED LIBRARIES
+
+openCV
+face-recogmition
+numpy
+datetime
+os
+click
+pyfiglet    
+
 # INSTALLING
 
 pip install -r requirements.txt
