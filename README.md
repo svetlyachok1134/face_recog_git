@@ -6,6 +6,7 @@ This face recognition project
 # INSTALLING
 
 pip install -r requirements.txt
+
 python3 realease.py
 
 # USAGE
