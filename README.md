@@ -8,11 +8,17 @@ Using this code you can identify the person who was added to the database
 # USED LIBRARIES
 
 openCV
-face-recogmition
+
+face-recognition
+
 numpy
+
 datetime
+
 os
+
 click
+
 pyfiglet    
 
 # INSTALLING
