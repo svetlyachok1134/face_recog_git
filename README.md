@@ -1,7 +1,7 @@
 # face_recog_git
 Hello
 
-This face recognition project
+This is the face recognition project
 
 Using this code you can identify the person who was added to the database
 
